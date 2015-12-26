@@ -1,104 +1,104 @@
 ##Hervé P.
--DOM
--JSON
--Node.js
+- DOM
+- JSON
+- Node.js
 
 ##Semere B.
--WebGL
--jQuer
-y-JSCS
+- WebGL
+- jQuery
+- JSCS
 
 ##Marie S.
--JSHint
--Promise
--Ember
+- JSHint
+- Promise
+- Ember
 
 ##Thomas B.
--Bluebird
--XHR
--Yeoman
+- Bluebird
+- XHR
+- Yeoman
 
 ##Mehdi H.
--webpack
--Isomorphic
--AJAX
+- webpack
+- Isomorphic
+- AJAX
 
 ##Samar A.
--Nightmare
--Metalsmith
--Moment.js
+- Nightmare
+- Metalsmith
+- Moment.js
 
 ##Andréa B.
--Browserify
--IIFE
--Flux
+- Browserify
+- IIFE
+- Flux
 
 ##Alice J.
--JSLint
--RxJS
--React
+- JSLint
+- RxJS
+- React
 
 ##Robin F.
--Babel
--Chai
--Sails
+- Babel
+- Chai
+- Sails
 
 ##Allan C.
--Hoisting
--Mocha
--Three.js
+- Hoisting
+- Mocha
+- Three.js
 
 ##Thomas G.
--Gulp
--ECMAScript
--V8
+- Gulp
+- ECMAScript
+- V8
 
 ##Karine L.
--JSON-LD
--Backbone
--Universal
+- JSON- LD
+- Backbone
+- Universal
 
 ##Sébastien J.
--Jasmine
--CouchDB
--Grunt
+- Jasmine
+- CouchDB
+- Grunt
 
 ##Nicolas S.
--Broccoli
--JSX
+- Broccoli
+- JSX
 
 ##Benjamin D.
--CORS
--MEAN
+- CORS
+- MEAN
 
 ##Anis L.
--Canvas
--CoffeeScript
+- Canvas
+- CoffeeScript
 
 ##Jérôme M.
--Express
--AngularJS
+- Express
+- AngularJS
 
 ##Justin C.
--D3.js
--TypeScript
+- D3.js
+- TypeScript
 
 ##Hayate S.
--Knockout
--ESLint
+- Knockout
+- ESLint
 
 ##Louis M.
--Redux
--Underscore
+- Redux
+- Underscore
 
 ##Floriane G.
--Brunch
--Hapi
+- Brunch
+- Hapi
 
 ##Oriane M.
--Bower
--npm
+- Bower
+- npm
 
 ##Yoann S.
--nvm
--AMD
+- nvm
+- AMD
