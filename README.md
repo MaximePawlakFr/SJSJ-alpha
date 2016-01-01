@@ -47,7 +47,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
 * [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
-* [Brunch](/glossary/BRUNCH.md): Un outil axé sur la production de fichiers prêts à être déployés à partir de fichiers de développement.
+* [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
 
 ### C
 
@@ -56,7 +56,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 * [Closure](/glossary/CLOSURE.md): *to be completed.*
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
-* [CouchDB](/glossary/COUCHDB.md): base de données NoSQL avec JavaScript comme langage de requête HTTP et comme API.
+* [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
 * [Currying](/glossary/CURRYING.md): *to be completed.*
 
 ### D
@@ -78,13 +78,13 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### G
 
-* [Grunt](/glossary/GRUNT.md):outil d’exécution destinée à automatiser les tâches fastidieuses et éventuellement complexes.
+* [Grunt](/glossary/GRUNT.md): a task runner aiming at automating tedious and possibly complex tasks.
 * [Gulp](/glossary/GULP.md): a task runner aiming at automating tedious and possibly complex tasks.
 
 ### H
 
-* [Hapi](/glossary/HAPI.md): Un framework Node JS pour écrire des services et plus.
-* [Hoisting](/glossary/HOISTING.md): an action performed by the JavaScript interpreter that moves function and variable declarations to the top of their containing scope.
+* [Hapi](/glossary/HAPI.md): a Node JS framework for writing services and more.
+* [Hoisting](/glossary/HOISTING.md): C'est une action éxécutée par l'intèprète de JavaScript qui déplace une fonction et une variable dans le sommet qui contenant le scope.
 
 ### I
 
@@ -93,7 +93,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### J
 
-* [Jasmine](/glossary/JASMINE.md): un framework de test pour BDD.
+* [Jasmine](/glossary/JASMINE.md): a testing framework for BDD.
 * [jQuery](/glossary/JQUERY.md): a fast, small, and feature-rich client-side library.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
@@ -114,7 +114,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 ### M
 
 * [Meteor](/glossary/METEOR.md): *to be completed.*
-* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
+* [Mocha](/glossary/MOCHA.md): Un framework de test extensible pour TDD et BDD.
 * [Moment.js](/glossary/MOMENTJS.md): Bibliothèque pour analyser, valider, manipuler et afficher des dates.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): Un plug générateur de site extrêmement simple, statique.
@@ -154,7 +154,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### T
 
-* [Three.js](/glossary/THREEJS.md): a lightweight 3D library to create and display animated 3D computer graphics on a Web browser.
+* [Three.js](/glossary/THREEJS.md): Une bibliothèque 3D légère  pour créer et d'afficher l'infographie 3D  animée sur un navigateur internet.
 * [TypeScript](/glossary/TYPESCRIPT.md): a super-set of the JavaScript language that introduces types.
 
 ### U
