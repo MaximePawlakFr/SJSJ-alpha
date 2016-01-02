@@ -43,7 +43,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 * [Babel](/glossary/BABEL.md): Un outils de transformation du Javascript qui a commencé en tant que traducteur de code ECMAScript 2015 / ES6 .
 * [Backbone](/glossary/BACKBONE.md): a structural framework for dynamic web apps.
-* [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
+* [Bluebird](/glossary/BLUEBIRD.md): Une librairie concentree sur les performances et les fonctionnalités innovantes.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
 * [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
@@ -175,10 +175,11 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### X
 
-* [XHR](/glossary/XHR.md): XMLHttpRequest is an API that provides client functionality for transferring data between a client and a server.
+* [XHR](/glossary/XHR.md): XMLHttpRequest est une API qui fournit une fonctionnalité de transférer des données entre un client et un serveur.
 
 ### Y
 
-* [Yeoman](/glossary/YEOMAN.md): a generator builder to speed up the setup and installation process of a project or part of a project.
+* [Yeoman](/glossary/YEOMAN.md):
+un constructeur de générateur pour accélérer le processus de configuration et d'installation d'un projet ou d'une partie d'un projet.
 
 ### Z
